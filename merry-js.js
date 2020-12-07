@@ -59,6 +59,7 @@
         if(clicks==-2){
             document.getElementById("header").innerHTML = "Sehr schick!";
             document.getElementById("clicks").innerHTML ="Geselle dich zum Rest der Familie!";
+            document.getElementById("notfestive").style.opacity = "0";
             document.getElementById("festive").style.opacity = "1";
         }
         if(clicks==-3){
