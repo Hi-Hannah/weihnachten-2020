@@ -1,5 +1,5 @@
 
-    var clicks = 2;
+    var clicks = 10;
     var shadowclicks = 0;
     var name = "."
    
